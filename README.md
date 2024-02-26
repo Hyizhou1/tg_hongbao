@@ -1,16 +1,16 @@
 
 
-# 演示后台站点： [admin](https://ft.autopqk.lol/admin)   账号：test   密码：123456qw（演示需要，请勿修改）
+# 演示后台站点： [admin](https://h.hyz.lol/admin)   账号：test   密码：admin123（演示需要，请勿修改）
 
 演示地址为老版 新版请看下图
 
-新版自动充值、提现==> 演示群组： [@点我进入群组](https://t.me/gshskski)
+新版自动充值、提现==> 演示群组： [@点我进入群组](https://t.me/adklfjs)
 
-有问题联系 [@联系我](https://t.me/question_ro)
+有问题联系 [@联系我](https://t.me/hongsx)
 
-TG索引机器人，telegram超级索引群组https://t.me/sousuo_z
+TG索引机器人，telegram超级索引群组https://t.me/superSerch_bot
 
-trx兑换 能量租赁 tg会员 钱包靓号商城 钱包监控 https://github.com/mmmrp/trx
+trx兑换 能量租赁 tg会员 钱包靓号商城 钱包监控 https://t.me/trxtest2
 #### 包含下列完整功能
 ### 支持自助充值 自助提现等功能
 ![image](https://github.com/mmmrp/tg_hongbao/assets/72646062/7a0d4d06-e9c6-4587-bb33-e9b273554a36)
