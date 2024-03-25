@@ -4,11 +4,11 @@
 
 演示地址为老版 新版请看下图
 
-新版自动充值、提现==> 演示群组： [@点我进入群组](https://t.me/adklfjs)
+新版自动充值、提现==> 演示群组： [@点我进入群组](https://t.me/trxtest2)
 
 有问题联系 [@联系我](https://t.me/hongsx)
 
-TG索引机器人，telegram超级索引群组https://t.me/superSerch_bot
+TG索引机器人，telegram超级索引群组https://t.me/wocaonimatest
 
 trx兑换 能量租赁 tg会员 钱包靓号商城 钱包监控 https://t.me/trxtest2
 #### 包含下列完整功能
@@ -63,4 +63,4 @@ trx兑换 能量租赁 tg会员 钱包靓号商城 钱包监控 https://t.me/trx
 3. 输入用户名后， 机器人就申请成功了。 如果你只是要一个可以用的机器人， 到这步就够了。 其中的 bot token: 1287833603:AAGmx9hQq6ViT3km0_77z8psBGqUKfdpSHY 是最重要的部分， 不要让人看到， 否则别人可以控制你的机器人。
 
 
->有问题联系 [@sss](https://t.me/suoyin_q) (不常登，请耐心等候)
+>有问题联系 [@sss](https://t.me/hongsx) (不常登，请耐心等候)
